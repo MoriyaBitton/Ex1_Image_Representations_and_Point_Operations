@@ -1,7 +1,5 @@
 # cv2_Imge
 
-## Ariel University, Israel || Semester B 2021
-
 The main purpose of this exercise is to get you acquainted with Python’s basic syntax and some of its
 image processing facilities. This exercise covers:
 
@@ -16,5 +14,6 @@ image processing facilities. This exercise covers:
 
 • Performing optimal quantization
 
+## Ariel University, Israel || Semester B 2021
 
 ## have fun :)
